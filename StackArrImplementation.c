@@ -58,7 +58,7 @@ int peek (struct stack *st, int position) {
         printf("Invalid Position");
         return x;
     }
-    x = st -> s[st -> top - position -1];
+    x = st -> s[position -1];
     return x;
 }
 
