@@ -104,10 +104,10 @@ int main(){
     display(&st);
     printf("element 2 is %d \n", peek(&st, 2));
     printf("top element is %d \n", peektop(&st));
-    printf("poped %d \n", pop(&st));
-    printf("poped %d \n", pop(&st));
-    printf("poped %d \n", pop(&st));
-    printf("poped %d \n", pop(&st));
+    printf("popped %d \n", pop(&st));
+    printf("popped %d \n", pop(&st));
+    printf("popped %d \n", pop(&st));
+    printf("popped %d \n", pop(&st));
     display(&st);
     return 0;
 
