@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h> // because malloc is there for memory allocation
 
-// STACK ADT - 1.SIZE 2.TOP 3.POINTER
+// STACK ADT - 1.SIZE 2.TOP 3.POINTER.
 
 struct stack{
     int size;
